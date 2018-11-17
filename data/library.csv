@@ -1,0 +1,757 @@
+#,Title,Artist,Release,BPM,Energy,Dance,Loud,Valence,Length,Acoustic,Pop.
+1,Fly,Brian Finnegan,2010-09-12,128,51,45,-9,33,8:14,61,31
+2,viola,eevee,2016-12-01,78,11,65,-16,19,1:27,97,59
+3,Jefferson's Shadow,Dryjacket,2015-02-10,145,91,46,-6,55,3:11,0,31
+4,I Like It,Enrique Iglesias,2010-01-01,129,94,66,-3,73,3:52,3,63
+5,Girls Chase Boys,Ingrid Michaelson,2014-04-15,85,82,47,-6,68,3:41,3,58
+6,in your arms,Saib,2018-03-08,143,28,74,-17,76,4:38,70,57
+7,Hills and Horizons,Fujitsu,2018-06-19,138,41,93,-14,69,2:05,44,59
+8,Alejandro,Lady Gaga,2009-01-01,99,78,64,-7,34,4:34,0,41
+9,Bad Girls,M.I.A.,2013-01-01,143,92,64,-3,36,3:48,0,69
+10,Psychopomps,Old Blind Dogs,2010-09-07,97,58,31,-11,69,4:15,54,12
+11,Rose in the Gap,John McSherry,2006-04-17,118,59,35,-6,50,4:34,13,10
+12,Highlander's Farewell to Ireland / Farewell to Ireland / O'er the Water to Charlie / Highlander's Farewell - Version Info,Alasdair Fraser,2011-03-15,108,63,36,-5,61,7:31,71,33
+13,Leckan Mór,Lúnasa,2014-07-15,128,53,46,-10,49,4:24,22,25
+14,Valley of the Moon Reel,Alasdair Fraser,2007-12-14,122,48,50,-10,69,4:01,51,19
+15,Nanking Road - Instrumental,The Shanghai Restoration Project,2006-10-24,115,66,82,-6,55,3:40,2,35
+16,m i s t,eevee,2017-05-01,130,23,63,-16,39,1:58,36,57
+17,Yu Garden,Saib,2016-04-22,173,64,59,-6,78,3:39,3,38
+18,All Of Us,Fakear,2016-12-02,114,73,85,-7,21,4:09,14,37
+19,Derail,Yellowbase,2018-04-13,85,73,63,-8,45,3:00,1,53
+20,Connor Main Theme - Connor,Nima Fakhrara,2018-06-22,97,44,29,-13,19,8:54,68,45
+21,Shanghai Nights,Saib,2016-04-22,94,54,67,-9,36,4:24,44,54
+22,This Head I Hold,Electric Guest,2012-09-10,162,87,66,-5,96,2:56,3,7
+23,From Night to Morning,Antologie,2017-02-23,94,14,15,-19,4,3:19,97,59
+24,m'Lover,Kishi Bashi,2016-09-16,190,83,49,-7,70,3:49,61,49
+25,Petrichor,Alarmist,2015-11-02,75,57,40,-7,38,3:14,33,34
+26,Aap Sahaaee Hoa (Clear Blocks to Prosperity),Nirinjan Kaur,2014-12-01,140,31,52,-13,27,8:33,60,45
+27,Theme from Poldark,Anne Dudley,2015-06-05,102,49,36,-7,24,0:44,68,28
+28,Rock Your Body,Justin Timberlake,2002-11-04,101,71,89,-6,82,4:27,20,74
+29,Get Ur Freak On,Missy Elliott,2001-05-14,178,75,80,-9,74,3:31,53,74
+30,Fuck You,Lily Allen,2009-01-26,130,90,78,-4,84,3:40,3,66
+31,Can't Get You Out of My Head,Kylie Minogue,2002-02-08,126,56,77,-8,96,3:51,3,58
+32,Animal I Have Become,Three Days Grace,2006-06-25,122,85,55,-4,51,3:51,0,74
+33,I Hate Everything About You,Three Days Grace,2007-12-25,89,83,50,-5,45,3:51,0,75
+34,Headstrong,Trapt,2002-11-05,185,90,49,-6,53,4:46,0,75
+35,Do Your Thing,*NSYNC,2001-07-24,130,68,69,-9,96,4:20,30,34
+36,Bye Bye Bye,*NSYNC,2000-03-21,173,93,61,-5,86,3:20,3,73
+37,It's Gonna Be Me,*NSYNC,2000-03-21,165,87,64,-5,91,3:12,4,67
+38,Space Cowboy (Yippie-Yi-Yay),*NSYNC,2000-03-21,114,98,71,-3,70,4:21,1,46
+39,Just Got Paid,*NSYNC,2000-03-21,115,77,81,-4,70,4:09,1,48
+40,It Makes Me Ill,*NSYNC,2000-03-21,105,86,81,-5,65,3:26,1,47
+41,This I Promise You,*NSYNC,2000-03-21,166,59,55,-6,47,4:45,35,69
+42,No Strings Attached,*NSYNC,2000-03-21,111,97,67,-4,63,3:49,0,47
+43,Digital Get Down,*NSYNC,2000-03-21,178,98,64,-4,87,4:23,1,41
+44,Bringin' Da Noise,*NSYNC,2000-03-21,113,97,49,-5,87,3:30,5,39
+45,That's When I'll Stop Loving You,*NSYNC,2000-03-21,142,68,52,-5,41,4:52,34,39
+46,I'll Be Good For You,*NSYNC,2000-03-21,100,73,70,-6,83,3:55,20,37
+47,I Thought She Knew,*NSYNC,2000-03-21,79,27,38,-10,21,3:22,92,40
+48,Beijinho no Ombro,Valesca Popozuda,2013-07-22,132,73,86,-4,81,2:45,17,52
+49,Ainda Bem,Vanessa Da Mata,2004,133,48,63,-8,13,4:29,21,43
+50,Eu Sou Neguinha?,Vanessa Da Mata,2004,80,65,70,-7,72,3:48,44,44
+51,Eu Quero Enfeitar Você,Vanessa Da Mata,2004,119,64,64,-8,46,2:59,17,31
+52,Música,Vanessa Da Mata,2004,140,50,38,-7,36,3:06,58,36
+53,Essa Boneca Tem Manual,Vanessa Da Mata,2004,103,76,70,-9,62,3:38,6,31
+54,"Ai, Ai, Ai...",Vanessa Da Mata,2004,130,72,64,-5,92,4:13,0,43
+55,Joãozinho,Vanessa Da Mata,2004,127,74,77,-6,63,3:54,22,23
+56,Ela X Ele na Cidade Sem Fim,Vanessa Da Mata,2004,143,28,64,-14,26,4:35,74,20
+57,História de uma Gata,Vanessa Da Mata,2004,130,63,73,-7,71,3:46,8,33
+58,"Não Chore, Homem",Vanessa Da Mata,2004,116,65,70,-8,56,3:36,6,21
+59,Vem,Vanessa Da Mata,2004,108,41,93,-10,80,3:16,46,24
+60,Zé,Vanessa Da Mata,2004,183,18,43,-13,39,3:11,90,21
+61,"Ai, Ai, Ai... - DeepLick Radio Remix",Vanessa Da Mata,2004,130,83,59,-9,84,4:50,0,39
+62,Toda Humanidade Nasceu de uma Mulher,Vanessa Da Mata,2014-03-25,152,91,63,-6,72,3:59,1,33
+63,Segue o Som,Vanessa Da Mata,2014-03-25,92,54,78,-8,69,3:21,21,51
+64,Não Sei Dizer Adeus,Vanessa Da Mata,2014-03-25,142,58,69,-7,47,4:41,2,33
+65,Ninguém é Igual a Ninguém (Desilusão),Vanessa Da Mata,2014-03-25,156,56,56,-6,37,4:00,61,38
+66,Homem Invisível no Mundo Invisível,Vanessa Da Mata,2014-03-25,146,52,61,-8,71,3:58,18,36
+67,Homem Preto,Vanessa Da Mata,2014-03-25,98,52,63,-8,21,4:05,12,27
+68,Por Onde Ando Tenho Você,Vanessa Da Mata,2014-03-25,151,98,58,-6,96,3:38,1,31
+69,My Grandmother Told Me (Tchu Bee Doo Bee Doo),Vanessa Da Mata,2014-03-25,185,55,45,-7,38,3:35,25,24
+70,Desejos e Medos,Vanessa Da Mata,2014-03-25,112,82,67,-7,77,4:11,5,25
+71,Sunshine on My Shoulders,Vanessa Da Mata,2014-03-25,94,61,51,-6,14,4:28,1,26
+72,Rebola Nêga,Vanessa Da Mata,2014-03-25,114,90,70,-5,90,2:19,22,24
+73,Se o Presente Não Tem Você,Vanessa Da Mata,2014-03-25,109,74,67,-7,85,3:13,2,25
+74,Um Sorriso Entre nós Dois,Vanessa Da Mata,2014-03-25,107,81,72,-10,85,4:55,8,24
+75,Segue o Som (Remix Leo Breanza e Miller),Vanessa Da Mata,2014-03-25,92,81,67,-6,76,3:33,12,27
+76,Lay Low,Cafuné,2015-12-11,115,50,63,-12,31,2:55,0,25
+77,Fall Asleep Slow,Cafuné,2015-12-11,140,87,61,-7,82,4:11,0,25
+78,Runaways,Cafuné,2015-12-11,107,68,64,-8,46,4:00,1,29
+79,Lay Low (Reprise),Cafuné,2015-12-11,115,51,29,-12,6,2:25,0,15
+80,This Disorder,The Features,2013-05-14,114,38,89,-8,71,3:07,3,11
+81,Fears,MTNS,2013-11-22,140,43,68,-12,17,4:18,12,48
+82,At Last,Tandems '91,2014-08-29,125,54,75,-10,83,4:51,2,25
+83,Classy Penguin,The Books,2013-10-15,180,59,53,-10,97,4:33,3,32
+84,Fall in Love Too Fast,GRiZ,2013,96,84,69,-5,31,4:20,6,43
+85,Atonement,The Kickdrums,2013-10-08,158,84,54,-4,52,4:17,0,35
+86,my leaving feat. mabanua,Kenichiro Nishihara,2015-05-27,98,88,64,-5,92,3:57,21,38
+87,Winter,Oceans of Slumber,2016-03-04,118,88,25,-6,17,7:58,0,29
+88,The Fourth Avenue Cafe,L'Arc-en-Ciel,1996,150,83,48,-7,68,5:00,0,38
+89,Overrated (feat. Kurt Travis),Strawberry Girls,2015-11-27,160,65,34,-7,6,4:26,4,35
+90,Cardiac Arrest,Bad Suns,2014-07-01,94,88,62,-4,75,3:03,5,64
+91,Stargazed,August Wilhelmsson,2016-06-17,98,19,14,-18,4,2:29,97,40
+92,Release You,Tom Misch,2014-12-08,120,36,54,-13,20,3:53,33,51
+93,Halo,The Pass,2012-11-06,104,90,62,-6,91,3:50,1,34
+94,Science Fiction,Christine and the Queens,2015-10-16,120,57,89,-9,80,3:38,46,0
+95,Tu es beau,Yelle,2007-08-31,108,77,93,-7,86,5:47,28,45
+96,Let's Groove,"Earth, Wind & Fire",1981-11-14,125,65,87,-9,90,5:39,12,72
+97,Warm Body,Cafuné,2015-12-11,135,80,65,-8,54,3:08,0,36
+98,Lost in the Zoo,Goddamn Electric Bill,2006-08-02,105,43,57,-13,20,4:07,96,29
+99,Hargrove,Zelliack,2012-02-01,125,57,57,-8,28,4:44,18,26
+100,Stratosphere,Mutemath,2015-11-13,102,97,63,-5,39,3:55,2,36
+101,May,American Wolf,2014-09-27,140,52,54,-9,18,7:25,20,33
+102,European Festivity Nightmare,Turkuaz,2015-10-02,139,91,65,-6,78,4:37,4,37
+103,Old & Gray,Maps & Atlases,2012,122,45,75,-11,45,5:44,67,31
+104,Satie: 3 Gymnopédies: I. Lent et douloureux,Erik Satie,2002,78,0,38,-36,22,3:31,100,41
+105,Feel It Still,Portugal. The Man,2017-03-02,79,80,78,-5,77,2:43,4,73
+106,Morning Run,The Flashbulb,2015-04-02,178,12,49,-22,22,3:30,99,32
+107,Hearing Blue,Little Tybee,2013-04-09,129,83,41,-8,69,5:38,7,37
+108,Trying to Be Cool - Stripped Down Version,Phoenix,2013-01-01,111,57,65,-12,67,3:38,4,37
+109,Fireflies,Random Forest,2015-10-18,98,42,46,-14,7,5:04,52,53
+110,The Way,Fastball,1998-01-01,121,87,65,-6,90,4:17,15,65
+111,"Cry,Die,Fly",Drew OfThe Drew,2013-10-28,146,62,65,-7,63,5:07,2,21
+112,No Diggity,Blackstreet,1996-09-09,89,65,87,-5,67,5:05,30,81
+113,"Sicilienne, Op. 78",Gabriel Fauré,2004,63,18,37,-25,15,3:35,99,0
+114,シチリアーノ,Yoshiko Kishino,2008-04-16,178,20,38,-18,19,4:01,84,0
+115,Summer Breeze,Seals and Crofts,1972,89,47,50,-10,35,3:24,61,70
+116,Snack Attack,A Great Big Pile of Leaves,2013,127,91,62,-5,40,3:19,1,45
+117,Perfect Pillow,Chon,2015-03-23,116,92,43,-5,56,3:36,1,49
+118,Someday,Tilian,2013-03-18,92,71,58,-5,27,3:42,3,37
+119,Oh My,Camino 84,2016-11-03,174,45,72,-7,76,3:15,34,0
+120,Every Note,Mystery Skulls,2014-10-27,95,52,71,-6,34,5:08,43,43
+121,Hijabi,Mona Haydar,2017-03-07,158,46,63,-9,50,3:19,46,41
+122,Tisbury Lane,Mae,2004-11-16,124,32,74,-10,47,5:45,26,0
+123,One Day With You,Pogo,2014-12-22,100,65,73,-8,40,2:58,40,37
+124,1.9_6-nothingisreal.ra,Mac Quayle,2016-06-03,133,55,53,-11,7,2:48,14,22
+125,1.0_8-whatsyourask.m4p,Mac Quayle,2016-06-03,136,39,53,-15,3,1:38,27,41
+126,1.3_5-da3m0nsneverstop.caf,Mac Quayle,2016-06-03,120,35,76,-13,69,2:10,80,40
+127,Score Screen,RAC,2015-09-11,120,73,70,-7,52,3:51,0,37
+128,Find Your Cloud,Papadosio,2012-10-16,170,66,47,-9,30,8:37,6,32
+129,Suga Suga,Baby Bash,2003-01-01,83,75,69,-3,47,4:03,64,64
+130,Gold Chain,Black Light Dinner Party,2013-09-24,100,87,47,-2,46,4:05,0,32
+131,No Scrubs,TLC,1999-02-23,93,68,74,-4,59,3:34,3,82
+132,They Don't Care About Us,Michael Jackson,1995-06-16,90,91,86,-6,73,4:44,21,71
+133,Dark Matter,Andrew Belle,2013-08-20,147,81,48,-5,19,5:18,9,0
+134,Gates,Speak,2014-06-23,167,96,51,-2,29,3:43,6,36
+135,Let Go,RAC,2014-01-01,110,84,75,-6,75,4:40,10,55
+136,We Used to Be Friends,The Dandy Warhols,2005-09-27,105,63,71,-6,59,3:21,0,0
+137,I Hear the Bells,Mike Doughty,2005-09-27,144,87,52,-7,64,4:19,33,0
+138,I Know I Know I Know,Tegan and Sara,2005-09-27,117,64,71,-7,84,3:45,21,0
+139,I Turn My Camera On,Spoon,2005-09-27,100,39,93,-9,77,3:36,2,0
+140,No Sleep Tonight,The Faders,2005-09-27,202,92,38,-4,52,2:58,2,0
+141,Dakota,Stereophonics,2005-09-27,147,90,50,-3,31,4:58,12,0
+142,Sway,The Perishers,2005-09-27,137,47,49,-8,30,4:21,7,0
+143,Long Time Coming,Delays,2005-09-27,117,71,47,-5,47,3:59,2,0
+144,On Your Porch,The Format,2005-09-27,122,41,61,-11,51,5:13,63,0
+145,Ocean City Girl,ivy,2005-09-27,96,45,63,-9,41,4:25,3,0
+146,Momentary Thing,Something Happens,2005-09-27,110,59,58,-8,28,4:02,0,0
+147,The Way You Are,46bliss,2005-09-27,90,64,60,-10,41,5:27,43,0
+148,Lost and Found,Adrienne Pierce,2005-09-27,125,83,70,-6,94,3:39,24,0
+149,Lily Dreams On,Cotton Mather,2005-09-27,174,52,24,-8,20,2:48,44,0
+150,Naima,John Coltrane,1960,171,1,30,-20,16,4:18,95,62
+151,I Feel It Coming,The Weeknd,2016-11-24,93,82,77,-6,59,4:29,43,72
+152,Sorry,The Moth & The Flame,2013-11-05,136,63,66,-7,44,3:30,3,42
+153,"Serenade in E Major for Strings, Op. 22: II. Menuetto",Antonín Dvořák,2001-04-30,82,9,18,-19,16,7:13,74,28
+154,Waves - Robin Schulz Radio Edit,Mr. Probz,2014-02-07,120,51,83,-9,44,3:23,1,58
+155,The Hanging Tree,Angus & Julia Stone,2014-02-24,94,29,59,-13,26,2:52,47,40
+156,Steal My Sunshine,Len,1999-05-25,191,83,41,-11,68,4:26,39,61
+157,Peggy,Orchards,2016-03-26,130,87,56,-5,50,3:59,1,0
+158,Distance to Gibraltar,The American Dollar,2015-12-11,115,64,29,-8,7,4:03,48,21
+159,One Dance,Drake,2016-05-13,104,62,79,-6,38,2:54,1,74
+160,Le tour,MHA,2016-03-25,160,29,45,-15,18,3:22,91,18
+161,Cartouche,Blackmore's Night,2003-06-30,130,60,62,-6,42,3:48,9,37
+162,Returning The Smile You Have Had From The Start,Emery,2010-01-01,156,95,27,-4,49,3:05,0,15
+163,Pachuca Sunrise,Minus the Bear,2005-08-23,155,88,47,-6,71,3:35,3,50
+164,Life Size Ghosts,Mt. Wolf,2012-11-05,150,38,50,-11,5,4:09,68,36
+165,Deserter,pg.lost,2016-09-16,81,65,38,-8,8,6:57,0,6
+166,Dusty Rose (feat. Ayla Nereo),The Human Experience,2014-10-22,120,54,66,-12,31,4:24,68,25
+167,Anthem,Emancipator,2006-12-06,170,52,47,-10,31,5:40,79,49
+168,Modern Mystery,Someone Still Loves You Boris Yeltsin,2008-04-08,140,61,65,-8,60,4:19,4,22
+169,Never Going Back Again - 2004 Remastered Edition,Fleetwood Mac,1977-02-04,176,34,65,-13,95,2:14,86,66
+170,Oscar Wilde,Company of Thieves,2009-01-06,118,65,68,-7,46,4:41,4,0
+171,II,LUCHS,2016-09-14,122,7,49,-22,48,2:07,99,0
+172,Spell,Collectress,2014-03-24,90,23,55,-16,30,2:43,98,16
+173,Intro,Bayonne,2016-05-13,136,62,40,-8,11,6:33,67,8
+174,Appeals,Bayonne,2016-05-13,159,88,54,-6,70,4:01,15,17
+175,Marim,Bayonne,2016-05-13,110,83,66,-10,83,3:57,81,4
+176,Steps,Bayonne,2016-05-13,82,63,41,-9,54,4:42,90,2
+177,Lates,Bayonne,2016-05-13,127,66,49,-8,8,6:25,85,4
+178,Omar,Bayonne,2016-05-13,147,60,56,-8,53,5:55,46,6
+179,Hammond,Bayonne,2016-05-13,145,69,50,-8,29,5:12,68,3
+180,Sincere,Bayonne,2016-05-13,136,65,71,-7,91,4:42,54,9
+181,In the Darkness,fox capture plan,2015-11-04,66,86,21,-6,54,4:42,20,16
+182,Young Again,Young Liars,2014-06-24,130,47,60,-9,26,3:29,12,27
+183,Butterfly Effect,fox capture plan,2015-11-04,90,89,36,-6,86,4:55,2,37
+184,Waves,Bayonne,2016-05-13,112,73,53,-7,15,6:30,78,7
+185,Great Big God of Hands,James Elkington,2015-07-24,146,45,35,-14,35,3:15,85,41
+186,To the Order of Night,Balmorhea,2010-02-23,52,1,40,-30,14,2:28,99,0
+187,Winter Circle,Balmorhea,2010-02-23,73,3,16,-21,3,2:21,99,0
+188,Herons,Balmorhea,2010-02-23,94,7,66,-19,7,3:05,93,0
+189,Constellations,Balmorhea,2010-02-23,84,5,32,-29,17,3:57,99,0
+190,Steerage and the Lamp,Balmorhea,2010-02-23,64,19,17,-15,5,7:14,99,0
+191,Night Squall,Balmorhea,2010-02-23,119,26,51,-16,9,3:36,71,0
+192,On the Weight of Night,Balmorhea,2010-02-23,101,13,28,-12,4,4:44,59,0
+193,Palestrina,Balmorhea,2010-02-23,71,12,16,-18,3,5:28,86,0
+194,Bowspirit,Balmorhea,2010-02-23,92,18,33,-11,17,5:17,42,5
+195,Less is Moi,Stuart Duncan,2011-10-21,150,19,56,-19,48,7:28,90,50
+196,Roll To Me,Del Amitri,1995-01-01,150,80,57,-6,86,2:12,42,60
+197,Jack & Diane,John Mellencamp,2004-01-01,104,41,82,-8,57,4:16,3,4
+198,Hold Out,Washed Out,2010-03-01,102,94,68,-2,39,3:29,23,0
+199,Always Straight Ahead,This Day & Age,2006-08-22,119,85,53,-5,37,5:11,1,17
+200,Prelude,Epsilona,2015-11-28,140,54,40,-9,4,1:46,9,3
+201,Think About It,Epsilona,2015-11-28,148,82,70,-6,36,3:05,4,11
+202,The Creamy Factor,Epsilona,2015-11-28,157,78,55,-6,27,3:58,10,9
+203,Trance,Epsilona,2015-11-28,112,65,64,-5,9,2:39,3,7
+204,Thinkers,Epsilona,2015-11-28,143,74,36,-7,36,4:57,2,7
+205,Going Home,Epsilona,2015-11-28,140,80,38,-6,46,5:29,3,25
+206,You Get What You Give,New Radicals,1998-01-01,114,90,62,-5,71,5:01,17,75
+207,Gymnopedie,Emile Pandolfi,2006-03-06,94,4,49,-22,24,4:25,99,45
+208,Narita,Lymbyc Systym,2009,112,42,51,-9,4,3:09,4,25
+209,序,Elephant Gym,2014-07-22,120,15,85,-19,78,1:05,99,0
+210,遊戲,Elephant Gym,2014-07-22,130,86,64,-7,49,4:06,6,0
+211,燈,Elephant Gym,2014-07-22,92,51,66,-9,76,2:57,69,0
+212,堅固耐用的梯子,Elephant Gym,2014-07-22,110,84,63,-6,85,3:45,40,0
+213,日常的航道,Elephant Gym,2014-07-22,92,55,62,-9,47,5:08,0,0
+214,頭,Elephant Gym,2014-07-22,75,9,55,-22,35,0:56,83,0
+215,身體,Elephant Gym,2014-07-22,124,76,28,-8,21,4:09,64,0
+216,青蛙,Elephant Gym,2014-07-22,136,90,32,-5,56,5:12,0,0
+217,鳥鳴,Elephant Gym,2014-07-22,127,54,51,-7,26,4:31,29,0
+218,天鵝,Elephant Gym,2014-07-22,125,65,51,-9,14,10:14,69,0
+219,"Lights Out, Words Gone",Bombay Bicycle Club,2011-01-01,106,76,65,-7,65,5:01,58,57
+220,白日,Elephant Gym,2014-07-22,121,67,51,-8,63,4:14,34,0
+221,I Want to Be Buried in Your Backyard,Nightmare Of You,2005-09-13,147,86,52,-5,83,4:07,1,34
+222,Pachuca Sunrise,Minus the Bear,2005-08-23,155,88,47,-6,71,3:35,3,0
+223,Dreams,Vitas,2001,100,91,64,-8,39,6:12,35,2
+224,7 Element,Vitas,2001,130,79,73,-7,96,4:10,33,19
+225,Opera #2,Vitas,2001,100,40,68,-10,59,3:15,3,4
+226,Carlson,Vitas,2001,116,72,85,-8,71,4:07,7,1
+227,Opera #1 - Asian version,Vitas,2001,170,69,51,-7,48,3:53,12,1
+228,Smile,Vitas,2001,138,35,55,-10,5,3:50,84,29
+229,Soul,Vitas,2001,119,57,38,-7,22,5:24,73,2
+230,Body,Vitas,2001,130,66,73,-11,62,4:06,16,0
+231,Old gramophone,Vitas,2001,86,61,48,-10,65,2:46,26,0
+232,Circus,Vitas,2001,116,39,80,-10,60,5:38,23,0
+233,Opera #1 - Euro version,Vitas,2001,170,54,66,-11,27,3:23,16,0
+234,The Birthday of My Death - That Black Ragamix,Vitas,2001,112,45,65,-12,44,4:25,39,0
+235,Rillo Talk,Wild Child,2013-10-08,75,31,77,-11,50,4:22,54,42
+236,Another Set of Issues,OK Go,2015-02-18,80,76,67,-7,54,3:58,13,0
+237,Snowglobe,OWEL,2013-04-02,160,46,39,-8,6,7:35,4,34
+238,Soft Offering (For the Oft Suffering),Hey Rosetta!,2014-10-21,126,87,54,-6,23,3:58,7,39
+239,Around the World,Maxence Cyrin,2010-04-12,144,42,38,-14,12,3:31,87,32
+240,La valse d'Amélie,Yann Tiersen,2001-04-23,192,56,43,-9,86,2:16,71,4
+241,Speak Up,POP ETC,2012-11-09,176,81,15,-7,34,4:40,29,52
+242,Ivy & Gold,Bombay Bicycle Club,2010-01-01,129,68,62,-7,89,2:56,75,11
+243,Stay,Vacationer,2014-01-01,94,62,67,-8,50,3:21,32,31
+244,Paradise Waiting,Vacationer,2014-01-01,90,53,77,-7,90,3:05,34,49
+245,Glimpse,Vacationer,2014-01-01,91,61,45,-8,29,4:06,16,32
+246,Heavenly,Vacationer,2014-01-01,138,63,53,-8,20,4:07,42,28
+247,In The Grass,Vacationer,2014-01-01,122,74,77,-5,43,3:57,48,33
+248,Parallels,Vacationer,2014-01-01,143,56,45,-7,37,2:11,40,26
+249,Vision,Vacationer,2014-01-01,190,60,36,-7,51,3:27,8,26
+250,The Wild Life,Vacationer,2014-01-01,160,69,86,-5,80,2:53,5,44
+251,Fresh,Vacationer,2014-01-01,91,72,69,-7,38,2:49,25,29
+252,Go Anywhere,Vacationer,2014-01-01,139,53,72,-8,68,2:54,16,27
+253,Onward & Upward,Vacationer,2014-01-01,90,61,59,-8,46,3:40,23,28
+254,Shining,Vacationer,2014-01-01,100,72,74,-6,42,3:48,23,35
+255,Autumn In Analog,Zelliack,2012-02-01,165,58,35,-7,32,4:14,17,34
+256,Columbus,Snowmine,2014-02-04,118,60,65,-8,49,4:07,39,40
+257,Rylynn,Don Ross,2008-01-10,77,39,32,-14,41,5:54,78,48
+258,1979,Antoine Dufour,2016-07-18,130,65,67,-11,70,4:24,11,46
+259,Talk,Antoine Dufour,2015-12-21,130,62,57,-10,44,4:43,30,50
+260,Oh. Hello,Circa Survive,2005-01-01,121,91,43,-6,24,2:37,0,33
+261,"Lights Out, Words Gone",Bombay Bicycle Club,2011-01-01,106,76,65,-7,66,5:01,59,18
+262,Don't Move,Phantogram,2011,100,64,56,-5,48,4:18,0,60
+263,Evening / Morning,Bombay Bicycle Club,2009-01-01,139,83,43,-8,21,2:55,1,44
+264,Color,Finish Ticket,2015-09-04,99,84,43,-3,52,4:10,0,53
+265,Actor,Max and the Moon,2015-05-12,115,87,55,-5,29,2:58,12,11
+266,Waffle,Sevendust,1999-08-24,192,84,48,-6,69,3:31,0,51
+267,In The Dark,Cathedrals,2014-09-03,133,85,60,-4,55,3:44,0,49
+268,Truth (Helios Remix),Balmorhea,2009-08-04,126,46,45,-16,14,3:45,84,14
+269,A Night At The Spleen,Closure in Moscow,2009-05-05,165,95,45,-4,36,3:57,1,0
+270,Camp Adventure,Delta Sleep,2013,138,25,59,-17,42,3:07,92,2
+271,Book Club,Arkells,2011-01-01,158,88,55,-4,59,3:17,40,40
+272,London In February,Coastal,2004,120,10,50,-19,8,2:24,92,24
+273,Thank You,Bombadil,2013-07-23,96,17,29,-17,46,4:17,95,39
+274,Heathens,Twenty One Pilots,2016-06-16,90,40,73,-9,55,3:16,8,83
+275,Throw Me to the Wolves,Elder Brother,2014-03-11,122,88,56,-5,61,3:54,0,40
+276,"Sonata No. 1 in G minor, BWV 1001: II. Fuga: Allegro",Johann Sebastian Bach,2013-08-02,94,14,54,-21,82,4:17,97,27
+277,The Cullybacky Hop,Lúnasa,2014-07-15,116,56,32,-9,78,4:52,8,33
+278,Traveling Song,Ryn Weaver,2015-06-02,147,37,52,-11,63,3:14,86,44
+279,Wooden Eyes,Oketo,2014-10-05,150,84,52,-7,41,5:18,5,34
+280,Cronin's / I Do Not Incline,Jack Talty & Cormac Begley,2011-07-03,116,41,73,-9,81,3:26,94,30
+281,The Pitnacree Ferryman,Alasdair Fraser,2011-03-15,103,55,44,-7,78,4:03,54,31
+282,The Track for the Craic,Socks in the Frying Pan,2012-11-08,114,47,58,-11,94,4:36,88,31
+283,Woodblock,Joe Gil,2010-09-18,97,41,51,-9,39,3:53,71,34
+284,Broke,Bear Attack!,2013-10-21,128,75,66,-7,69,4:10,0,38
+285,So Fast,Tape Waves,2016-07-29,113,86,62,-8,69,3:21,13,35
+286,Keeping The Blade,Coheed and Cambria,2005,73,24,23,-12,18,2:09,67,41
+287,Always & Never - Explicit Album Version,Coheed and Cambria,2005,138,23,60,-15,10,2:24,79,43
+288,Welcome Home,Coheed and Cambria,2005,154,95,44,-5,16,6:15,1,65
+289,Ten Speed (Of God's Blood & Burial),Coheed and Cambria,2005,157,98,48,-5,61,3:47,1,53
+290,Crossing The Frame,Coheed and Cambria,2005,162,93,57,-5,74,3:27,1,47
+291,Apollo I : The Writing Writer - Explicit Album Version,Coheed and Cambria,2005,153,97,32,-7,12,5:15,2,45
+292,Once Upon Your Dead Body - Explicit Album Version,Coheed and Cambria,2005,140,87,64,-7,55,3:19,9,45
+293,Wake Up,Coheed and Cambria,2005,72,44,56,-9,48,3:36,59,54
+294,The Suffering,Coheed and Cambria,2005,157,92,55,-5,88,3:44,1,57
+295,The Willing Well I: Fuel for the Feeding End,Coheed and Cambria,2005,166,97,36,-6,49,7:17,2,43
+296,The Willing Well II: From Fear Through the Eyes of Madness,Coheed and Cambria,2005,194,98,22,-5,44,7:28,0,43
+297,The Willing Well III: Apollo II: The Telling Truth - Explicit Album Version,Coheed and Cambria,2005,158,94,35,-6,72,7:19,1,44
+298,The Willing Well IV: The Final Cut,Coheed and Cambria,2005,127,81,36,-6,6,7:40,2,43
+299,Mother May I,Coheed and Cambria,2005,148,93,64,-6,83,4:32,3,44
+300,The Lying Lies & Dirty Secrets of Miss Erica Court,Coheed and Cambria,2005,168,93,62,-7,90,3:17,2,44
+301,The Ring In Return,Coheed and Cambria,2003,88,59,19,-14,28,2:07,59,38
+302,In Keeping Secrets of Silent Earth: 3,Coheed and Cambria,2003,159,87,33,-5,35,8:12,1,52
+303,Cuts Marked In the March of Men,Coheed and Cambria,2003,177,97,28,-5,26,5:00,2,44
+304,Three Evils (Embodied in Love and Shadow),Coheed and Cambria,2003,167,95,38,-6,32,5:12,1,45
+305,The Crowing,Coheed and Cambria,2003,173,92,30,-5,50,6:36,0,48
+306,Blood Red Summer,Coheed and Cambria,2003,77,77,65,-5,88,4:05,17,52
+307,The Camper Velourium I: Faint of Hearts,Coheed and Cambria,2003,137,91,42,-5,69,5:21,1,44
+308,The Camper Velourium II: Backend of Forever,Coheed and Cambria,2003,162,86,52,-7,66,5:33,1,42
+309,The Camper Velourium III: Al the Killer,Coheed and Cambria,2003,164,99,31,-5,23,4:16,1,40
+310,A Favor House Atlantic,Coheed and Cambria,2003,166,97,29,-5,14,3:55,0,58
+311,The Light & the Glass,Coheed and Cambria,2003,141,66,30,-8,23,9:28,4,44
+312,21:13,Coheed and Cambria,2003,75,80,40,-6,37,9:47,1,39
+313,Invincible,Pat Benatar,1985-01-01,125,83,56,-11,72,4:29,4,49
+314,Love Is A Battlefield,Pat Benatar,1989-01-01,91,71,68,-9,87,5:23,9,50
+315,Love Today,MIKA,2007-01-01,124,91,67,-5,63,3:55,3,51
+316,Dancing In The Street - 2002 Remastered Version,David Bowie,2002,131,82,60,-14,74,3:25,12,26
+317,Modern Love - 1999 Remastered Version,David Bowie,2002,181,89,32,-8,96,4:48,0,33
+318,Under Pressure,Queen,2002,113,64,68,-9,53,3:58,24,34
+319,Rebel Rebel - 1999 Remastered Version,David Bowie,2002,126,92,68,-8,62,4:29,0,36
+320,Ziggy Stardust - 2002 Remastered Version,David Bowie,2002,80,60,46,-10,52,3:13,4,32
+321,Space Oddity - 1999 Remastered Version,David Bowie,2002,136,42,31,-13,46,5:16,2,38
+322,Life On Mars? - 2015 Remastered Version,David Bowie,1971-12-17,123,38,44,-15,22,3:56,64,72
+323,Let's Dance - 1999 Remastered Version,David Bowie,1983-04-14,115,70,62,-9,71,7:37,0,71
+324,Shimmer - Single Version,Fuel,2005,115,78,26,-7,39,3:34,0,65
+325,Black Creme,Hrvrd,2013-02-20,97,60,28,-9,32,2:36,17,0
+326,Throw Shade,CRUISR,2015-07-17,160,80,55,-7,90,2:53,2,0
+327,Gates,Speak,2014-06-23,167,96,52,-2,28,3:43,5,0
+328,Blackberry Winter,Keith Jarrett,1998-01-01,112,8,40,-21,18,3:41,98,28
+329,Good As New,Vacationer,2012-03-20,95,78,51,-5,64,3:24,11,0
+330,Jackrabbit,San Fermin,2015-04-24,110,67,69,-5,52,3:40,25,0
+331,Flip,Glass Animals,2014-06-03,128,55,65,-9,34,3:43,8,50
+332,Black Mambo,Glass Animals,2014-06-03,80,41,68,-11,31,4:09,29,64
+333,Pools,Glass Animals,2014-06-03,105,65,68,-9,23,4:49,15,57
+334,Gooey,Glass Animals,2014-06-03,183,37,49,-13,11,4:49,74,72
+335,Walla Walla,Glass Animals,2014-06-03,186,61,47,-8,56,3:37,0,49
+336,Intruxx,Glass Animals,2014-06-03,130,34,41,-13,4,2:49,80,46
+337,Hazey,Glass Animals,2014-06-03,90,50,65,-11,40,4:26,0,59
+338,Toes,Glass Animals,2014-06-03,73,35,64,-12,25,4:15,41,60
+339,Wyrd,Glass Animals,2014-06-03,156,59,55,-10,19,4:06,7,48
+340,Cocoa Hooves,Glass Animals,2014-06-03,134,28,53,-14,7,4:32,46,50
+341,JDNT,Glass Animals,2014-06-03,149,50,49,-12,23,4:24,17,47
+342,Sweetest Kill,Broken Social Scene,2010-05-10,176,39,58,-12,73,5:09,9,1
+343,In A Sentimental Mood,Duke Ellington,1963-02,108,24,47,-14,26,4:18,95,7
+344,Spectrolite,Bayonne,2016-05-13,130,76,35,-8,26,4:43,59,14
+345,Parade Of Punk Rock T-Shirts,Maritime,2006,135,80,66,-8,70,3:27,19,0
+346,Lost In The Wild,RVRB,2013-08-09,86,74,39,-7,38,4:43,16,29
+347,Phone In A Pool,Ben Folds,2015-09-11,178,36,59,-10,81,4:04,78,0
+348,Disobey,Kate Havnevik,2011,118,94,58,-6,54,3:25,1,11
+349,Maps,Yeah Yeah Yeahs,2003-04-29,120,93,53,-6,17,3:40,0,10
+350,Pases & Passports,Reverie Sound Revue,2009-05-26,165,84,64,-7,78,3:54,1,13
+351,Echo,Trapt,2002-11-05,164,84,53,-5,39,4:12,0,54
+352,Waiting,Trapt,2005-01-01,171,97,42,-4,33,3:50,0,41
+353,Walking Around Waiting Downtown,Reverie Sound Revue,2009-05-26,161,82,56,-8,67,2:48,5,17
+354,"Oh, La",Ra Ra Riot,2008-01-01,136,68,52,-8,54,4:42,4,22
+355,Suspended In Gaffa,Ra Ra Riot,2008-01-01,108,79,53,-6,57,3:48,2,23
+356,Scission,Nothingface,2003-04-22,107,97,51,-2,21,3:05,0,18
+357,Oh No!,Marina and the Diamonds,2010-02-15,127,90,78,-4,96,3:00,6,21
+358,You Again,Kate Havnevik,2007-03-27,108,42,61,-11,62,3:22,69,0
+359,Eyes Wide Open,Gotye,2011-01-01,139,87,60,-6,66,3:11,20,38
+360,Blue Light,Bloc Party,2005,156,84,52,-6,62,2:47,1,9
+361,Helicopter,Bloc Party,2005,170,95,46,-4,37,3:40,0,27
+362,Vitamin R (Leading Us Along),Chevelle,2004-09-21,95,88,48,-5,29,3:43,0,58
+363,You Go To My Head,Billie Holiday,2005-01-01,67,7,57,-19,25,2:54,99,27
+364,Black Garden (2673 Dundee Pl.),Gabriel Kahane,2014-06-03,95,19,31,-17,36,2:53,96,24
+365,Bradbury (304 Broadway),Gabriel Kahane,2014-06-03,91,38,24,-12,18,3:39,77,17
+366,Slumlord Crocodile (115 E. 3rd St.),Gabriel Kahane,2014-06-03,118,66,47,-8,65,3:27,39,17
+367,Veda (1 Pierce Dr.),Gabriel Kahane,2014-06-03,96,28,53,-14,5,4:13,37,17
+368,Empire Liquor Mart (9127 S. Figueroa St.),Gabriel Kahane,2014-06-03,121,17,46,-13,20,9:12,87,33
+369,Musso and Frank (6667 Hollywood Blvd),Gabriel Kahane,2014-06-03,128,45,71,-9,19,3:44,60,16
+370,Villains (4616 Dundee Dr.),Gabriel Kahane,2014-06-03,102,37,88,-11,56,3:28,51,17
+371,Ambassador Hotel (3400 Wilshire Blvd),Gabriel Kahane,2014-06-03,107,10,68,-15,52,3:25,93,19
+372,Griffith Park (2800 E. Observatory Ave.),Gabriel Kahane,2014-06-03,102,39,67,-10,42,3:43,72,19
+373,Union Station (800 N. Alameda St.),Gabriel Kahane,2014-06-03,100,5,44,-17,14,5:19,95,15
+374,Mezzanine,Shields,2012-11-16,125,84,64,-4,83,3:41,2,20
+375,(You Can't Blame It On) Anybody,Phoenix,2006-10-16,99,76,86,-5,39,3:34,10,0
+376,If She Wants Me,Belle & Sebastian,2003-10-06,90,68,57,-8,81,5:05,29,42
+377,Fiasco,Jubilants,2012-11-19,120,86,67,-5,84,3:36,9,8
+378,The Fox,Nickel Creek,2000,120,65,64,-8,89,2:30,60,41
+379,The House Carpenter (Gypsy Davy),Altan,2015-02-24,100,55,41,-9,82,4:33,82,0
+380,The Shores of Lough Ghamhna & Aoibhneas Éiliís Uí Cheallaigh,Deiseal,2012-05-12,130,15,61,-20,85,3:29,86,5
+381,The A Minor Set,The Bonny Men,2011-10-12,126,64,44,-8,90,5:53,44,23
+382,Come In This Light,From Indian Lakes,2014-10-07,140,50,41,-13,9,2:52,82,0
+383,Label This Love,From Indian Lakes,2014-10-07,130,88,57,-8,57,3:43,1,0
+384,"Breathe, Desperately",From Indian Lakes,2014-10-07,148,80,57,-8,75,3:58,2,0
+385,Sleeping Limbs,From Indian Lakes,2014-10-07,146,73,57,-9,74,3:12,2,0
+386,Ghost,From Indian Lakes,2014-10-07,130,66,64,-9,56,3:50,11,0
+387,Awful Things,From Indian Lakes,2014-10-07,100,32,66,-11,18,3:33,4,0
+388,Runner,From Indian Lakes,2014-10-07,150,46,61,-15,85,3:11,74,0
+389,Search For More,From Indian Lakes,2014-10-07,165,72,44,-9,36,3:18,0,0
+390,Fog,From Indian Lakes,2014-10-07,158,54,48,-10,25,4:00,17,0
+391,Belly of the Deepest Love,Tow'rs,2014-05-16,123,30,74,-12,5,6:21,73,51
+392,All We Have Is Now,The Modern Electric,2012-12-05,124,63,61,-8,31,4:04,9,24
+393,Moondance,Van Morrison,1970-02,67,28,61,-12,56,4:34,50,66
+394,Tranquilize,Finish Ticket,2014-05-16,120,85,60,-5,38,3:50,1,36
+395,The Belll,The Olllam,2012-09-25,80,33,69,-14,38,6:48,70,0
+396,Woods,Kyle Sanna,2010-01-26,112,20,39,-14,21,5:44,77,0
+397,Return Of The Mack,Mark Morrison,1996-04-22,95,83,72,-5,61,3:33,1,74
+398,Marcshlua Uí Néill,Seán Ó Riada,2011-12-02,102,73,34,-12,28,3:29,8,0
+399,Prayer For Tears,The Olllam,2012-09-25,106,30,68,-14,5,7:19,70,0
+400,Umea Strathspey/ The Melt/Flying Reel,Catriona McKay,2013-08-11,109,39,41,-10,29,7:09,66,0
+401,So Far So Good (Reels),Dún an Doras,2005-03-17,115,58,41,-7,87,7:30,73,6
+402,Worlds on Fire,Zerbin,2015-06-02,127,71,43,-4,60,3:29,0,34
+403,Am I Alive,From Indian Lakes,2014-10-07,155,53,56,-11,23,3:14,36,0
+404,NO,Meghan Trainor,2016-03-04,94,81,74,-4,63,3:34,1,20
+405,Not over You,Fictionist,2014-10-07,104,72,73,-8,74,3:33,1,16
+406,Tillery,Becca Stevens Band,2015-04-07,124,60,58,-9,56,5:37,10,12
+407,Simarik,Tarkan,2000-05-16,97,87,77,-6,82,3:11,4,30
+408,Cosy In The Rocket,Psapp,2005-01-01,119,86,71,-8,91,4:28,35,26
+409,Remain,Mutemath,2015-11-13,82,39,39,-5,7,5:52,53,32
+410,Magic Hour,Via Luna,2015-07-05,116,71,46,-8,52,6:33,3,32
+411,Synthesizers,Butch Walker and The Black Widows,2011-08-29,89,63,39,-7,44,3:25,5,0
+412,Slow Dive,Young the Giant,2014-01-17,180,3,8,-23,4,0:48,85,40
+413,Anagram,Young the Giant,2014-01-17,90,72,50,-6,36,4:54,3,51
+414,It's About Time,Young the Giant,2014-01-17,140,91,51,-4,54,3:48,0,50
+415,Crystallized,Young the Giant,2014-01-17,163,88,48,-4,58,4:01,4,50
+416,Mind Over Matter,Young the Giant,2014-01-17,155,76,47,-4,29,4:05,0,61
+417,Daydreamer,Young the Giant,2014-01-17,178,94,36,-3,35,3:59,0,47
+418,Firelight,Young the Giant,2014-01-17,188,28,30,-13,17,5:34,92,50
+419,Camera,Young the Giant,2014-01-17,102,60,37,-7,16,5:13,5,45
+420,In My Home,Young the Giant,2014-01-17,174,87,36,-5,30,3:40,0,48
+421,Eros,Young the Giant,2014-01-17,124,86,68,-5,82,4:11,0,45
+422,Teachers,Young the Giant,2014-01-17,170,96,46,-5,31,3:41,0,43
+423,Waves,Young the Giant,2014-01-17,162,74,48,-6,38,4:39,0,45
+424,Paralysis,Young the Giant,2014-01-17,118,90,53,-5,34,4:36,0,44
+425,Babylon,David Gray,1998-11-02,112,54,74,-10,26,4:26,6,62
+426,Why'd You Only Call Me When You're High?,Arctic Monkeys,2013-09-09,92,63,69,-6,80,2:41,5,14
+427,Was It You,Joy Kills Sorrow,2013-06-04,155,52,55,-10,55,3:39,60,0
+428,Get Along,Joy Kills Sorrow,2013-06-04,155,38,68,-10,67,3:35,76,0
+429,Such Great Heights,Joy Kills Sorrow,2013-06-04,177,55,59,-11,60,4:13,72,4
+430,Gold In The Deep,Joy Kills Sorrow,2013-06-04,128,43,68,-9,59,3:27,80,0
+431,Working For The Devil,Joy Kills Sorrow,2013-06-04,132,45,76,-10,56,3:07,78,1
+432,Jake,Joy Kills Sorrow,2013-06-04,150,50,70,-9,73,2:42,52,0
+433,Enlistee,Joy Kills Sorrow,2013-06-04,118,32,46,-12,15,3:36,87,0
+434,Tides,Hey Marseilles,2013-01-01,180,47,25,-7,18,4:22,43,7
+435,Apartment,Young the Giant,2011,110,73,57,-7,33,3:56,1,57
+436,Make This Leap,The Hunts,2015-06-09,138,40,70,-8,70,3:46,89,47
+437,What What What,Caoimhín Ó Raghallaigh,2014-08-15,78,8,27,-17,48,3:05,100,53
+438,Boy in Blue,The Eastern Sea,2015-11-13,120,54,46,-6,33,3:58,35,13
+439,Light Goes Out,Ages and Ages,2014-03-25,81,68,46,-10,62,3:46,3,33
+440,Point to Point,Jon Stickley Trio,2015-10-06,122,55,59,-13,77,5:20,32,33
+441,Groping The Dark,Andrew Bird,2015-02-03,168,41,40,-19,36,10:43,97,0
+442,Gardermoen,Julia Kent,2007-01-01,128,15,43,-21,9,4:11,85,40
+443,Where's Your Heart Gone,Golden Youth,2014-07-07,97,57,63,-9,47,4:10,59,42
+444,Waiving to Ryan (The Rolling Waves / The North Star / Sean Ryan's Jig),The Fretless,2014-02-11,128,50,44,-11,89,5:27,88,42
+445,Smoothie Song,Nickel Creek,2002,110,52,53,-11,52,3:21,54,43
+446,Country,Empire of the Sun,2009-02-23,118,45,45,-10,12,5:04,65,34
+447,We Are The People,Empire of the Sun,2009-02-23,123,79,67,-5,55,4:27,10,51
+448,Half Mast,Empire of the Sun,2009-02-23,127,74,77,-5,76,3:54,0,50
+449,Tiger By My Side,Empire of the Sun,2009-02-23,136,94,57,-6,48,5:48,0,30
+450,Swordfish Hotkiss Night,Empire of the Sun,2009-02-23,118,73,85,-5,79,3:56,10,30
+451,Walking On A Dream,Empire of the Sun,2009-02-23,127,70,87,-6,73,3:18,25,70
+452,Standing On The Shore,Empire of the Sun,2009-02-23,128,88,59,-5,24,4:25,1,46
+453,Everything Is Everything,Phoenix,2004-03-22,109,81,70,-8,96,2:59,3,53
+454,If I ever feel better,Phoenix,2000-03-06,120,55,76,-9,84,4:27,5,70
+455,Everything You Want,Vertical Horizon,1999-06-15,94,76,64,-6,74,4:17,5,65
+456,Adventure Of A Lifetime,Coldplay,2015-12-04,112,92,64,-4,53,4:24,0,78
+457,Star Of The County Down,The High Kings,1900-01-01,111,66,77,-6,91,3:30,40,37
+458,Derezzed,Daft Punk,2010-01-01,120,64,54,-10,13,1:44,0,56
+459,Mary Mac,Hair of the Dog,2001-12-18,111,62,41,-9,94,3:04,51,29
+460,Green And Gray,Nickel Creek,2002,74,32,43,-11,44,3:37,80,31
+461,In Wonder,Punch Brothers,2015-11-20,131,31,42,-10,22,5:46,76,29
+462,The Hops of Guldenberg,Punch Brothers,2015-11-20,112,49,59,-11,57,4:53,71,30
+463,Sleek White Baby,Punch Brothers,2015-11-20,146,33,54,-10,50,3:35,87,23
+464,No More. Yet,Punch Brothers,2015-11-20,146,39,37,-11,43,4:31,76,25
+465,Clementine,Punch Brothers,2015-11-20,113,13,61,-17,10,3:27,84,33
+466,Shady Grove,Among The Oak & Ash,2009-01-01,118,62,66,-8,52,1:53,33,29
+467,Intro,ODESZA,2012-09-05,114,70,66,-13,88,0:34,89,0
+468,How Did I Get Here,ODESZA,2012-09-05,96,58,71,-6,37,2:11,39,6
+469,I Want You,ODESZA,2012-09-05,179,65,57,-4,29,2:42,49,2
+470,Above the Middle,ODESZA,2012-09-05,110,82,49,-4,21,3:03,4,0
+471,We Were Young,ODESZA,2012-09-05,110,70,51,-6,28,3:12,44,0
+472,Today,ODESZA,2012-09-05,100,89,53,-5,9,4:15,1,2
+473,Tuytus,ODESZA,2012-09-05,110,73,29,-4,24,3:16,1,0
+474,Rely,ODESZA,2012-09-05,120,88,61,-3,30,3:12,0,0
+475,Hey Now,ODESZA,2012-09-05,94,85,56,-4,4,2:28,4,0
+476,If You Don't (feat. Cumulus),ODESZA,2012-09-05,118,64,64,-7,11,3:07,21,0
+477,Don't Stop,ODESZA,2012-09-05,80,79,40,-4,4,2:48,9,1
+478,IPlayYouListen,ODESZA,2012-09-05,125,75,58,-5,31,4:53,2,3
+479,Nomadic Firs - Cover Bombs (Odesza Edit),ODESZA,2012-09-05,80,83,66,-3,24,3:30,3,0
+480,Real World,Matchbox Twenty,1996-10-01,118,76,50,-5,88,3:52,1,61
+481,Long Day,Matchbox Twenty,1996-10-01,104,82,46,-7,60,3:46,0,55
+482,3:00 AM,Matchbox Twenty,1996-10-01,108,67,52,-9,54,3:46,1,70
+483,Push,Matchbox Twenty,1996-10-01,168,67,42,-8,48,3:59,1,72
+484,Girl Like That,Matchbox Twenty,1996-10-01,145,73,59,-8,96,3:45,10,44
+485,Back 2 Good,Matchbox Twenty,1996-10-01,89,50,56,-9,48,5:40,11,57
+486,Damn,Matchbox Twenty,1996-10-01,80,51,55,-8,68,3:20,2,44
+487,Argue,Matchbox Twenty,1996-10-01,115,71,56,-8,81,2:58,0,42
+488,Kody,Matchbox Twenty,1996-10-01,95,64,52,-9,55,4:04,0,42
+489,Busted,Matchbox Twenty,1996-10-01,155,69,47,-8,47,4:17,4,41
+490,Shame,Matchbox Twenty,1996-10-01,126,68,55,-9,38,3:35,0,44
+491,Hang,Matchbox Twenty,1996-10-01,154,30,54,-13,25,3:47,63,50
+492,Here's to the Night,Eve 6,2000,97,65,58,-6,35,4:10,4,60
+493,Always This Late,ODESZA,2015-09-18,170,59,54,-9,35,2:41,1,47
+494,Say My Name (feat. Zyra),ODESZA,2015-09-18,115,74,75,-7,37,4:23,0,48
+495,Bloom,ODESZA,2015-09-18,130,59,56,-7,9,3:16,1,49
+496,All We Need (feat. Shy Girls),ODESZA,2015-09-18,100,85,64,-5,30,3:31,0,48
+497,Sundara,ODESZA,2015-09-18,120,69,59,-10,13,2:16,5,47
+498,White Lies (feat. Jenni Potts),ODESZA,2015-09-18,90,54,60,-9,12,4:37,4,46
+499,Kusanagi,ODESZA,2015-09-18,75,33,41,-8,4,3:28,48,46
+500,Echoes (feat. Py),ODESZA,2015-09-18,140,52,52,-9,7,4:24,0,44
+501,It’s Only (feat. Zyra),ODESZA,2015-09-18,120,59,40,-11,10,4:28,17,48
+502,Koto,ODESZA,2015-09-18,100,65,52,-7,10,3:14,1,45
+503,Memories That You Call (feat. Monsoonsiren),ODESZA,2015-09-18,120,55,61,-8,18,4:08,45,45
+504,Sun Models (feat. Madelyn Grant),ODESZA,2015-09-18,120,48,68,-9,45,2:40,19,45
+505,For Us (feat. Briana Marela),ODESZA,2015-09-18,110,56,46,-8,5,5:49,10,42
+506,Light (feat. Little Dragon),ODESZA,2015-09-18,133,63,57,-8,25,4:14,55,53
+507,"Liz On Top Of The World - From ""Pride & Prejudice"" Soundtrack",Dario Marianelli,2005-01-01,79,13,19,-21,4,1:23,97,56
+508,"A Postcard to Henry Purcell - From ""Pride & Prejudice"" Soundtrack",Dario Marianelli,2005-01-01,83,2,30,-26,60,2:39,98,50
+509,On My Mind,Ellie Goulding,2015-09-17,155,69,70,-7,74,3:33,27,14
+510,Hotline Bling,Drake,2015-07-31,135,62,90,-8,59,4:27,0,14
+511,Stressed Out,Twenty One Pilots,2015-05-15,170,64,73,-6,65,3:22,5,85
+512,Song For A Young Queen,Chris Thile,2001-01-01,113,72,43,-8,54,5:27,63,22
+513,Wolfcreek Pass,Chris Thile,2001-01-01,137,86,32,-6,92,4:18,34,18
+514,Raining At Sunset,Chris Thile,2001-01-01,107,54,39,-11,59,7:21,73,28
+515,Riddles In The Dark,Chris Thile,2001-01-01,122,56,47,-11,97,3:25,94,16
+516,Sinai To Canaan (Part I),Chris Thile,2001-01-01,133,30,50,-12,30,7:19,81,16
+517,Sinai To Canaan (Part II),Chris Thile,2001-01-01,94,62,33,-10,77,3:58,83,15
+518,Club G.R.O.S.S.,Chris Thile,2001-01-01,95,33,61,-12,32,5:47,69,15
+519,You Deserve Flowers,Chris Thile,2001-01-01,108,19,45,-18,43,3:20,97,15
+520,Eureka!,Chris Thile,2001-01-01,134,71,31,-9,96,3:46,64,16
+521,Big Sam Thompson,Chris Thile,2001-01-01,142,51,36,-10,52,5:15,76,25
+522,Bridal Veil Falls,Chris Thile,2001-01-01,101,56,52,-9,85,4:53,67,19
+523,Laurie De' Tullins,Chris Thile,2001-01-01,123,32,51,-15,38,5:15,96,18
+524,Song Up In Her Head,Sarah Jarosz,2009-01-01,91,59,52,-8,51,2:43,84,28
+525,Edge Of A Dream,Sarah Jarosz,2009-01-01,108,24,43,-12,14,3:42,93,27
+526,Tell Me True,Sarah Jarosz,2009-01-01,190,36,27,-8,40,4:08,86,33
+527,Mansinneedof,Sarah Jarosz,2009-01-01,131,42,60,-8,61,2:51,92,27
+528,I Can't Love You Now,Sarah Jarosz,2009-01-01,124,34,43,-10,38,2:34,82,26
+529,Broussard's Lament,Sarah Jarosz,2009-01-01,122,47,44,-8,14,3:36,69,25
+530,Fischer Store Road,Sarah Jarosz,2009-01-01,139,53,51,-11,78,2:18,87,25
+531,Left Home,Sarah Jarosz,2009-01-01,151,58,42,-8,61,3:24,33,23
+532,Shankill Butchers,Sarah Jarosz,2009-01-01,88,24,44,-10,10,4:22,85,32
+533,Can't Hide,Sarah Jarosz,2009-01-01,121,36,40,-9,36,3:12,92,25
+534,Long Journey,Sarah Jarosz,2009-01-01,124,22,53,-12,14,5:17,97,28
+535,Come On Up To The House,Sarah Jarosz,2009-01-01,115,30,77,-9,51,4:28,56,38
+536,Little Song,Sarah Jarosz,2009-01-01,141,14,60,-16,31,2:49,99,24
+537,Over The Edge,Sarah Jarosz,2013-01-01,133,64,56,-8,57,3:20,2,33
+538,Fuel The Fire,Sarah Jarosz,2013-01-01,124,55,53,-8,62,3:32,86,36
+539,Mile On The Moon,Sarah Jarosz,2013-01-01,116,48,53,-9,38,3:49,16,33
+540,Build Me Up From Bones,Sarah Jarosz,2013-01-01,115,29,52,-12,28,3:36,86,64
+541,Dark Road,Sarah Jarosz,2013-01-01,96,39,40,-10,22,3:32,83,33
+542,Simple Twist Of Fate,Sarah Jarosz,2013-01-01,120,8,69,-17,25,4:53,94,36
+543,"1,000 Things",Sarah Jarosz,2013-01-01,81,34,46,-12,16,3:28,80,30
+544,Gone Too Soon,Sarah Jarosz,2013-01-01,92,28,44,-10,13,3:35,83,31
+545,Anything Else,Sarah Jarosz,2013-01-01,78,24,36,-11,17,4:57,84,29
+546,The Book Of Right-On,Sarah Jarosz,2013-01-01,128,11,57,-13,42,5:36,84,39
+547,Rearrange The Art,Sarah Jarosz,2013-01-01,113,31,47,-11,10,3:50,95,28
+548,Starting,Matt Pond PA,2010-04-13,177,54,55,-7,80,3:51,38,21
+549,Running Wild,Matt Pond PA,2010-04-13,90,85,45,-3,52,4:21,2,15
+550,Specks,Matt Pond PA,2010-04-13,91,55,47,-7,14,3:50,65,42
+551,Remains,Matt Pond PA,2010-04-13,88,50,55,-8,29,5:36,35,19
+552,Sparrows,Matt Pond PA,2010-04-13,90,65,54,-6,54,2:50,56,16
+553,Brooklyn Fawn,Matt Pond PA,2010-04-13,137,44,51,-10,24,3:56,67,18
+554,Ruins,Matt Pond PA,2010-04-13,136,86,61,-4,77,3:47,31,14
+555,Winter Fawn,Matt Pond PA,2010-04-13,96,33,13,-14,4,5:16,86,13
+556,The Dark Leaves Theme,Matt Pond PA,2010-04-13,129,56,65,-7,26,3:30,41,13
+557,First Song,Matt Pond PA,2010-04-13,93,34,29,-11,32,2:36,35,12
+558,Let Me Live,Matt Pond PA,2013-02-05,156,79,46,-5,63,3:40,24,0
+559,Love to Get Used,Matt Pond PA,2013-02-05,150,77,60,-4,78,3:29,1,3
+560,Starlet,Matt Pond PA,2013-02-05,120,78,65,-6,69,3:53,3,0
+561,When The Moon Brings The Silver,Matt Pond PA,2013-02-05,124,61,64,-6,71,3:09,21,0
+562,Go Where The Leaves Go,Matt Pond PA,2013-02-05,172,72,46,-5,46,3:43,23,0
+563,Bring Back The Orchestra,Matt Pond PA,2013-02-05,98,46,62,-7,62,3:08,46,0
+564,Hole In My Heart,Matt Pond PA,2013-02-05,148,68,56,-7,28,3:19,5,0
+565,Human Beings,Matt Pond PA,2013-02-05,139,65,58,-7,40,3:49,75,0
+566,The Lives Inside The Lines In Your Hand,Matt Pond PA,2013-02-05,175,84,42,-6,23,4:28,15,0
+567,Strafford,Matt Pond PA,2013-02-05,140,46,69,-9,69,2:47,41,0
+568,Watch 'At Breakdown,Chris Thile,2006-01-01,153,47,33,-13,56,4:14,95,26
+569,Dead Leaves And The Dirty Ground,Chris Thile,2006-01-01,90,53,61,-11,88,3:07,82,41
+570,Stay Away,Chris Thile,2006-01-01,107,6,51,-19,16,3:56,95,22
+571,O Santo De Polvora,Chris Thile,2006-01-01,117,53,55,-13,93,2:38,90,21
+572,Wayside (Back In Time),Chris Thile,2006-01-01,162,66,42,-10,82,2:45,88,27
+573,"You're An Angel, And I'm Gonna Cry",Chris Thile,2006-01-01,93,4,43,-20,29,2:58,92,22
+574,How To Grow A Woman From The Ground,Chris Thile,2006-01-01,112,18,59,-16,28,5:09,93,27
+575,The Beekeeper,Chris Thile,2006-01-01,152,38,33,-16,32,4:07,96,22
+576,Brakeman's Blues,Chris Thile,2006-01-01,121,66,55,-10,88,3:42,80,23
+577,If The Sea Was Whiskey,Chris Thile,2006-01-01,139,4,44,-15,29,2:44,86,21
+578,Cazadero,Chris Thile,2006-01-01,123,66,48,-12,96,3:34,88,22
+579,Heart In A Cage,Chris Thile,2006-01-01,138,43,50,-10,49,4:23,87,45
+580,I'm Yours If You Want Me,Chris Thile,2006-01-01,90,1,54,-21,24,3:49,97,21
+581,The Eleventh Reel,Chris Thile,2006-01-01,128,56,35,-15,69,3:28,93,22
+582,The Wrong Idea,Chris Thile,2004-01-01,81,28,63,-6,17,2:38,73,15
+583,On Ice,Chris Thile,2004-01-01,160,55,36,-7,23,3:52,51,18
+584,Locking Doors,Chris Thile,2004-01-01,86,39,48,-8,21,2:44,44,12
+585,Waltz For Dewayne Pomeroy,Chris Thile,2004-01-01,100,15,66,-15,60,3:03,97,14
+586,Empire Falls,Chris Thile,2004-01-01,147,84,61,-4,69,2:58,3,11
+587,I'm Nowhere And You're Everything,Chris Thile,2004-01-01,133,32,65,-11,23,5:55,87,18
+588,Jessamyn's Reel,Chris Thile,2004-01-01,115,30,76,-14,98,1:54,99,19
+589,The Believer,Chris Thile,2004-01-01,92,63,69,-6,59,2:36,49,11
+590,This Is All Real,Chris Thile,2004-01-01,175,28,27,-12,18,3:27,90,14
+591,Ready For Anything,Chris Thile,2004-01-01,107,14,76,-12,53,5:16,93,11
+592,Attaboy,Stuart Duncan,2011-10-21,126,39,40,-11,59,5:43,83,45
+593,You Are,Punch Brothers,2010-06-11,127,28,60,-14,17,5:06,61,32
+594,Don't Need No,Punch Brothers,2010-06-11,111,30,55,-16,54,4:29,64,30
+595,Alex,Punch Brothers,2010-06-11,84,12,67,-16,35,5:00,84,31
+596,Rye Whiskey,Punch Brothers,2010-06-11,112,45,63,-12,46,3:29,53,47
+597,Me and Us,Punch Brothers,2010-06-11,127,20,47,-19,19,6:02,81,29
+598,Missy,Punch Brothers,2010-06-11,114,14,55,-18,13,3:54,81,32
+599,The Woman and the Bell,Punch Brothers,2010-06-11,79,31,34,-16,16,4:06,72,28
+600,Next to the Trash,Punch Brothers,2010-06-11,96,37,60,-15,80,3:05,76,30
+601,Welcome Home,Punch Brothers,2010-06-11,138,18,56,-16,14,6:39,80,27
+602,Emoticons,The Wombats,2015-04-14,101,71,61,-4,51,4:19,1,45
+603,Give Me A Try,The Wombats,2015-04-14,136,92,62,-3,68,3:48,0,52
+604,Greek Tragedy,The Wombats,2015-04-14,93,87,52,-5,45,3:30,0,58
+605,Be Your Shadow,The Wombats,2015-04-14,125,97,64,-3,55,3:36,3,46
+606,Headspace,The Wombats,2015-04-14,114,91,59,-5,33,3:54,1,39
+607,This Is Not A Party,The Wombats,2015-04-14,123,87,60,-4,79,2:59,0,37
+608,Isabel,The Wombats,2015-04-14,148,46,50,-9,36,3:29,50,39
+609,Your Body Is A Weapon,The Wombats,2015-04-14,104,95,50,-3,36,3:58,0,46
+610,The English Summer,The Wombats,2015-04-14,164,96,27,-5,30,2:37,0,36
+611,Pink Lemonade,The Wombats,2015-04-14,144,96,56,-4,82,3:46,0,50
+612,Curveballs,The Wombats,2015-04-14,111,89,60,-4,47,3:40,1,38
+613,Sex and Question Marks - Bonus Track,The Wombats,2015-04-14,102,85,58,-5,90,2:19,13,37
+614,Flowerball - Bonus Track,The Wombats,2015-04-14,140,90,51,-3,72,3:48,5,36
+615,Let It Happen,Tame Impala,2015-07-17,125,88,60,-6,58,7:48,0,74
+616,Nangs,Tame Impala,2015-07-17,168,53,54,-10,43,1:48,16,62
+617,The Moment,Tame Impala,2015-07-17,119,83,55,-6,45,4:15,0,67
+618,Yes I'm Changing,Tame Impala,2015-07-17,180,61,37,-7,35,4:31,11,69
+619,Eventually,Tame Impala,2015-07-17,78,62,42,-6,16,5:19,2,68
+620,Gossip,Tame Impala,2015-07-17,119,21,55,-18,35,0:55,97,59
+621,The Less I Know The Better,Tame Impala,2015-07-17,117,74,64,-4,79,3:36,1,82
+622,Past Life,Tame Impala,2015-07-17,146,78,37,-7,29,3:48,21,62
+623,Disciples,Tame Impala,2015-07-17,127,87,66,-5,80,1:49,8,64
+624,Cause I'm A Man,Tame Impala,2015-07-17,145,70,55,-5,64,4:02,11,67
+625,Reality In Motion,Tame Impala,2015-07-17,115,92,54,-5,47,4:12,15,61
+626,Love/Paranoia,Tame Impala,2015-07-17,111,70,50,-6,35,3:06,1,63
+627,"New Person, Same Old Mistakes",Tame Impala,2015-07-17,152,81,47,-7,49,6:03,27,69
+628,Heart : Attack,Neon Indian,2011-09-13,89,46,20,-8,4,0:57,0,0
+629,Polish Girl,Neon Indian,2011-09-13,112,88,63,-4,45,4:24,1,9
+630,The Blindside Kiss,Neon Indian,2011-09-13,134,84,29,-5,4,3:34,10,0
+631,Hex Girlfriend,Neon Indian,2011-09-13,120,95,36,-4,7,3:16,7,0
+632,Heart : Decay,Neon Indian,2011-09-13,112,89,26,-5,39,1:45,84,0
+633,Fallout,Neon Indian,2011-09-13,180,83,35,-5,61,3:32,29,0
+634,Era Extraña,Neon Indian,2011-09-13,136,90,45,-5,24,2:57,0,0
+635,Halogen (I Could Be a Shadow),Neon Indian,2011-09-13,123,78,36,-5,11,4:36,0,0
+636,Future Sick,Neon Indian,2011-09-13,184,84,31,-5,38,4:47,4,0
+637,Suns Irrupt,Neon Indian,2011-09-13,103,85,50,-7,50,5:29,0,0
+638,Heart : Release,Neon Indian,2011-09-13,98,90,46,-10,3,2:06,0,0
+639,Arcade Blues (Single),Neon Indian,2011-09-13,114,93,60,-4,96,4:47,3,0
+640,Double Knuckle Shuffle,Kíla,1997-01-01,105,59,63,-10,83,3:42,26,11
+641,This Is The Song [Good Luck],Punch Brothers,2010-06-11,79,14,54,-20,38,3:53,79,31
+642,Movement and Location,Punch Brothers,2012,147,75,52,-6,56,4:05,75,38
+643,This Girl,Punch Brothers,2012,113,73,56,-7,55,3:39,68,41
+644,Flippen [The Flip],Punch Brothers,2012,138,66,46,-8,61,4:25,74,33
+645,Patchwork Girlfriend,Punch Brothers,2012,134,51,65,-7,80,3:48,69,33
+646,Hundred Dollars,Punch Brothers,2012,146,61,68,-8,82,4:47,73,32
+647,Soon or Never,Punch Brothers,2012,116,28,55,-9,19,4:45,79,36
+648,New York City,Punch Brothers,2012,161,70,32,-6,44,3:47,71,33
+649,Kid A,Punch Brothers,2012,105,43,65,-11,58,4:53,81,37
+650,Don't Get Married Without Me,Punch Brothers,2012,177,42,45,-7,66,4:12,73,35
+651,Narcissus Is Back,Christine and the Queens,2013-01-28,115,73,77,-9,69,4:33,51,15
+652,My Only Swerving,El Ten Eleven,2005,172,63,38,-12,14,5:15,13,7
+653,Sorry About Your Irony,El Ten Eleven,2005,122,56,71,-11,70,3:18,0,0
+654,Lorge,El Ten Eleven,2005,146,51,35,-10,35,3:57,74,0
+655,1969,El Ten Eleven,2005,66,38,31,-15,21,0:47,16,0
+656,Central Nervous Piston,El Ten Eleven,2005,143,55,58,-13,24,4:50,41,0
+657,Thinking Loudly,El Ten Eleven,2005,99,49,37,-13,7,4:24,16,0
+658,Fanshawe,El Ten Eleven,2005,91,61,65,-9,65,5:12,2,0
+659,Connie,El Ten Eleven,2005,150,66,52,-12,51,6:25,64,0
+660,Bye Mom,El Ten Eleven,2005,110,32,80,-19,65,1:29,79,0
+661,The Dress Looks Nice on You,Sufjan Stevens,2004-03-16,128,27,70,-16,78,2:32,95,51
+662,It's Been A Year,Greg Laswell,2008-01-01,120,39,55,-10,45,3:13,46,28
+663,That It Moves,Greg Laswell,2008-01-01,154,66,43,-7,55,3:55,19,26
+664,The One I Love,Greg Laswell,2008-01-01,140,60,57,-9,29,2:36,36,33
+665,Comes And Goes (In Waves),Greg Laswell,2008-01-01,120,70,56,-9,16,4:14,54,60
+666,How The Day Sounds,Greg Laswell,2008-01-01,120,79,45,-7,28,4:49,21,31
+667,Sweet Dream,Greg Laswell,2008-01-01,94,23,41,-15,19,1:08,80,34
+668,Days Go On,Greg Laswell,2008-01-01,150,80,46,-8,43,3:15,49,32
+669,I'd Be Lying,Greg Laswell,2008-01-01,160,50,42,-7,34,4:46,30,32
+670,Farewell,Greg Laswell,2008-01-01,145,61,45,-5,19,3:57,14,26
+671,Not Out,Greg Laswell,2008-01-01,145,32,52,-8,33,3:32,74,25
+672,And Then You,Greg Laswell,2008-01-01,78,34,63,-13,55,3:30,82,43
+673,That It Moves (GarageBand Demo),Greg Laswell,2008-01-01,78,43,59,-12,77,3:19,77,21
+674,Familiarity,Punch Brothers,2015-01-23,139,34,43,-11,22,10:23,80,43
+675,Julep,Punch Brothers,2015-01-23,106,22,68,-14,31,5:26,90,53
+676,Passepied (Debussy),Punch Brothers,2015-01-23,92,30,64,-16,68,3:30,95,49
+677,I Blew It Off,Punch Brothers,2015-01-23,121,54,83,-9,70,3:07,60,44
+678,Magnet,Punch Brothers,2015-01-23,146,71,69,-7,83,3:14,17,40
+679,My Oh My,Punch Brothers,2015-01-23,160,26,51,-10,23,4:19,69,48
+680,Boll Weevil,Punch Brothers,2015-01-23,109,56,64,-9,64,2:36,62,39
+681,Prélude (Scriabin),Punch Brothers,2015-01-23,139,9,54,-25,42,0:58,97,50
+682,Forgotten,Punch Brothers,2015-01-23,140,32,50,-14,19,4:17,75,37
+683,Between 1st and A,Punch Brothers,2015-01-23,113,37,55,-12,19,4:15,88,36
+684,Little Lights,Punch Brothers,2015-01-23,199,29,26,-11,43,4:42,79,36
+685,The Ballad Of Mona Lisa,Panic! At The Disco,2011-03-18,124,89,44,-4,8,3:47,0,72
+686,Hallelujah,Panic! At The Disco,2015-04-20,160,89,52,-4,61,3:00,0,45
+687,Clara,Punch Brothers,2012,120,50,69,-7,61,3:21,84,34
+688,No Concern of Yours,Punch Brothers,2012,124,51,34,-8,25,4:08,67,34
+689,Who's Feeling Young Now?,Punch Brothers,2012,76,66,57,-5,78,4:09,61,35
+690,As Tall As Cliffs,Margot & The Nuclear So And So's,2008-12-16,89,77,54,-7,75,4:02,43,19
+691,The Ocean (Is Bleeding Salt),Margot & The Nuclear So And So's,2008-10-07,77,69,44,-6,19,3:25,1,25
+692,A Sea Chanty Of Sorts,Margot & The Nuclear So And So's,2005,73,42,50,-9,19,4:27,81,0
+693,Skeleton Key,Margot & The Nuclear So And So's,2005,158,84,47,-6,58,3:26,3,0
+694,Vampires In Blue Dresses,Margot & The Nuclear So And So's,2005,131,65,55,-4,49,3:20,33,0
+695,Quiet As A Mouse,Margot & The Nuclear So And So's,2005,113,82,47,-6,39,4:37,0,0
+696,Jen Is Bringin The Drugs,Margot & The Nuclear So And So's,2005,142,23,45,-12,46,2:50,78,0
+697,Dress Me Like A Clown,Margot & The Nuclear So And So's,2005,98,46,41,-9,43,4:37,58,0
+698,On A Freezing Chicago Street,Margot & The Nuclear So And So's,2005,109,66,57,-7,58,3:02,10,0
+699,Paper Kitten Nightmare,Margot & The Nuclear So And So's,2005,92,65,60,-7,41,3:33,50,0
+700,"Barfight Revolution, Power Violence",Margot & The Nuclear So And So's,2005,120,66,58,-6,40,3:30,6,0
+701,A Light On A Hill,Margot & The Nuclear So And So's,2005,123,17,49,-13,19,3:59,89,0
+702,Talking In Code,Margot & The Nuclear So And So's,2005,128,58,48,-6,21,3:44,36,0
+703,Bookworm,Margot & The Nuclear So And So's,2005,120,59,60,-9,30,3:05,15,0
+704,Fiery Crash,Andrew Bird,2007-03-20,136,91,60,-8,41,4:12,27,0
+705,Imitosis,Andrew Bird,2007-03-20,114,61,85,-9,95,4:01,59,0
+706,Plasticities,Andrew Bird,2007-03-20,147,50,61,-11,73,4:28,47,0
+707,Heretics,Andrew Bird,2007-03-20,131,74,42,-8,49,3:34,11,0
+708,Armchairs,Andrew Bird,2007-03-20,128,46,30,-10,18,7:03,24,0
+709,Dark Matter,Andrew Bird,2007-03-20,132,77,39,-9,12,5:08,18,0
+710,Simple X,Andrew Bird,2007-03-20,109,72,60,-9,44,3:37,29,0
+711,The Supine,Andrew Bird,2007-03-20,79,33,31,-17,38,0:59,95,0
+712,Cataracts,Andrew Bird,2007-03-20,128,18,34,-13,13,3:12,82,0
+713,Scythian Empires,Andrew Bird,2007-03-20,113,56,62,-11,49,4:35,82,0
+714,Spare-ohs,Andrew Bird,2007-03-20,102,35,38,-10,23,4:07,11,0
+715,Yawny at the Apocalypse,Andrew Bird,2007-03-20,168,41,17,-11,7,3:39,4,0
+716,/=/,Andrew Bird,2005-02-08,181,42,7,-13,16,1:06,64,0
+717,Sovay,Andrew Bird,2005-02-08,108,37,47,-14,20,4:41,81,1
+718,A Nervous Tic Motion of the Head to the Left,Andrew Bird,2005-02-08,133,46,51,-10,26,5:00,90,0
+719,Fake Palindromes,Andrew Bird,2005-02-08,144,64,46,-6,32,2:53,31,0
+720,Measuring Cups,Andrew Bird,2005-02-08,94,40,56,-12,38,2:52,78,0
+721,Banking on a Myth,Andrew Bird,2005-02-08,128,47,63,-9,30,4:28,31,0
+722,Masterfade,Andrew Bird,2005-02-08,104,33,58,-13,49,4:11,90,0
+723,Opposite Day,Andrew Bird,2005-02-08,96,32,55,-10,15,4:32,71,0
+724,"Skin Is, My",Andrew Bird,2005-02-08,158,67,60,-8,60,3:37,73,0
+725,The Naming of Things,Andrew Bird,2005-02-08,103,56,35,-8,25,4:58,71,0
+726,MX Missiles,Andrew Bird,2005-02-08,110,22,50,-16,17,4:22,92,0
+727,/=/=/,Andrew Bird,2005-02-08,172,13,24,-17,11,1:09,82,0
+728,Tables and Chairs,Andrew Bird,2005-02-08,140,52,53,-9,29,4:44,66,0
+729,The Happy Birthday Song,Andrew Bird,2005-02-08,80,13,47,-12,25,5:03,88,0
+730,Halloween,Matt Pond PA,2005,132,91,60,-5,49,5:03,1,25
+731,So Much Trouble,Matt Pond PA,2005,155,90,50,-4,55,3:58,3,23
+732,The Trees And The Wild,Matt Pond PA,2005,92,64,90,-5,81,2:48,8,15
+733,Several Arrows Later,Matt Pond PA,2005,160,98,48,-4,83,3:34,1,17
+734,Is It Safe,Matt Pond PA,2005,134,84,62,-6,33,4:58,1,14
+735,Emblems,Matt Pond PA,2005,163,93,44,-4,34,3:29,0,14
+736,City Song,Matt Pond PA,2005,127,74,59,-5,39,4:12,4,13
+737,From Debris,Matt Pond PA,2005,165,95,51,-4,70,4:31,1,14
+738,Brooklyn Stars,Matt Pond PA,2005,127,73,73,-4,43,3:49,25,17
+739,The Moviegoer,Matt Pond PA,2005,107,93,68,-2,76,3:12,23,12
+740,Spring Provides,Matt Pond PA,2005,150,97,58,-3,78,3:22,2,11
+741,Devil In The Water,Matt Pond PA,2005,130,63,71,-5,60,5:28,30,14
+742,Great Vacation,Dirt Poor Robins,2007-03-12,161,69,36,-6,52,4:25,49,39
+743,Eleanor Rigby,Dirt Poor Robins,2007-03-12,168,88,43,-5,44,4:23,3,27
+744,Shape,Glasser,2013-10-07,132,61,48,-8,8,4:57,25,34
+745,Design,Glasser,2013-10-07,120,65,67,-8,55,3:15,42,22
+746,Landscape,Glasser,2013-10-07,120,45,70,-11,50,3:59,68,20
+747,Forge,Glasser,2013-10-07,140,54,57,-8,32,4:32,0,24
+748,Window I,Glasser,2013-10-07,156,42,73,-13,20,1:27,38,15
+749,Keam Theme,Glasser,2013-10-07,120,67,67,-7,32,4:11,8,20
+750,Exposure,Glasser,2013-10-07,131,70,63,-7,41,3:41,24,16
+751,Dissect,Glasser,2013-10-07,110,59,65,-10,16,4:14,38,22
+752,Window III,Glasser,2013-10-07,133,39,63,-10,14,1:58,79,14
+753,Window II,Glasser,2013-10-07,110,10,57,-20,16,1:14,79,14
+754,New Year,Glasser,2013-10-07,134,52,69,-8,48,3:29,45,16
+755,Divide,Glasser,2013-10-07,106,52,30,-9,24,5:31,4,16
+756,Taro,alt-J,2012-09-18,172,48,36,-11,28,5:06,78,60
