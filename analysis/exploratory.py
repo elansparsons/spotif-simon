@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import chartify
-from bokeh.layouts import gridplot
+import bokeh
 
 # NOTES: Release_year is only so accurate because of re-recordings of old songs. See: Irish folk, Debussy
 
@@ -27,7 +27,7 @@ songs['time_s'] = (pd.Series(time_s)).values
 
 cropped = songs[['release_year','BPM','Energy','Dance','Loud','Valence','Acoustic','Pop.','time_s']]
 
-# histograms for distributions, including rounded mean
+# histograms for distributions, including rounded mean -- to be combined manually
 means = list(int(x) for x in round(cropped.mean(axis=0), 0))
 
 
@@ -103,4 +103,47 @@ ch9.callout.line(location=means[8], orientation='height')
 ch9.callout.text(str(means[8]), means[8], 0)
 ch9.show()
 
-kdehistgrid = gridplot([ch1,ch2,ch3,ch4,ch5,ch6,ch7,ch8,ch9], ncols=3, toolbar_location=None)
+# kdehistgrid = gridplot([ch1,ch2,ch3,ch4,ch5,ch6,ch7,ch8,ch9], ncols=3, toolbar_location=None)
+
+# kdehistgrid = bokeh.layouts.layout([[ch1,ch2,ch3],[ch4,ch5,ch6],[ch7,ch8,ch9]])
+
+
+#correlations between variables, hex chart obvious correlations (loud/energy, acoustic/energy, acoustic/loud, valence/dance)
+corrs = cropped.corr()
+
+corrarray = [corrs['Loud']['Energy'], corrs['Acoustic']['Energy'], corrs['Acoustic']['Loud'], corrs['Valence']['Dance']]
+corrarray = [round(x, 2) for x in corrarray]
+
+
+hex1 = chartify.Chart(blank_labels=True, x_axis_type='density', y_axis_type='density')\
+     .axes.set_xaxis_label("Loudness")\
+     .axes.set_yaxis_label("Energy")\
+     .axes.set_xaxis_range(-40,10)
+hex1.callout.text("Pearson r: " + str(corrarray[0]), 0, 0)
+hex1.plot.hexbin(data_frame = cropped, x_values_column='Loud', y_values_column='Energy',
+                 size=4, orientation='pointytop')
+hex1.show()
+
+hex2 = chartify.Chart(blank_labels=True, x_axis_type='density', y_axis_type='density')\
+     .axes.set_xaxis_label("Acousticness")\
+     .axes.set_yaxis_label("Energy")
+hex2.callout.text("Pearson r: " + str(corrarray[1]), 0, 0)
+hex2.plot.hexbin(data_frame = cropped, x_values_column='Acoustic', y_values_column='Energy',
+                 size=5, orientation='pointytop')
+hex2.show()
+
+hex3 = chartify.Chart(blank_labels=True, x_axis_type='density', y_axis_type='density')\
+     .axes.set_xaxis_label("Acousticness")\
+     .axes.set_yaxis_label("Loud")
+hex3.callout.text("Pearson r: " + str(corrarray[2]), 0, -40)
+hex3.plot.hexbin(data_frame = cropped, x_values_column='Acoustic', y_values_column='Loud',
+                 size=5, orientation='pointytop')
+hex3.show()
+
+hex4 = chartify.Chart(blank_labels=True, x_axis_type='density', y_axis_type='density')\
+     .axes.set_xaxis_label("Valence")\
+     .axes.set_yaxis_label("Dance")
+hex4.callout.text("Pearson r: " + str(corrarray[3]), 80, 5)
+hex4.plot.hexbin(data_frame = cropped, x_values_column='Valence', y_values_column='Dance',
+                 size=5, orientation='pointytop')
+hex4.show()
