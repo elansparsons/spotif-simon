@@ -14,7 +14,6 @@ songs = pd.read_csv("./data/library.csv", index_col = 0)
 songs['release_year'] = pd.to_numeric(songs['Release'].str[:4])
 # fix incorrect year on Star of the County Down
 songs['release_year'][457] = 2010
-# to datetime
 
 
 
@@ -96,10 +95,13 @@ ch9.plot.histogram(data_frame=cropped, values_column='time_s', method='density')
 ch9.callout.line(location=means[8], orientation='height')
 ch9.callout.text(str(means[8]), means[8], 0)
 
-chart_figures = [chart.figure for chart in (ch2,ch3,ch4,ch5,ch6,ch7,ch8,ch9)]
-grid = bokeh.layouts.gridplot(chart_figures, ncols=4,)
+chart_figures = [chart.figure for chart in (ch2,ch3,ch4,ch5)]
+grid = bokeh.layouts.gridplot(chart_figures, ncols=2,)
 show(grid)
 
+chart_figures = [chart.figure for chart in (ch6,ch7,ch8,ch9)]
+grid = bokeh.layouts.gridplot(chart_figures, ncols=2,)
+show(grid)
 
 
 
