@@ -2,8 +2,8 @@ from sklearn.decomposition import PCA
 from sklearn import svm
 import matplotlib.pyplot as plt
 import numpy as np
-from bokeh.plotting import figure, show, output_file, save
-from bokeh.models import value, LabelSet, ColumnDataSource
+from bokeh.plotting import figure, show, output_file
+from bokeh.models import LabelSet, ColumnDataSource
 output_file("./spotify_pca.html", title = "spotify pca")
 
 # find PCA shape, connect to songs to see outliers
