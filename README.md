@@ -1,4 +1,4 @@
 # spotif-simon
-Machine learning and visualization on Spotify library data
+Machine learning and visualization on Spotify library data using Chartify in Python.
 
 
